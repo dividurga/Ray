@@ -1,7 +1,7 @@
 # Ray
 The Smart UV Tracking Necklace
 
-# # Project Description
+## Project Description
 "Ray" is a wearable technology project that combines fashion with healthcare. This project introduces a necklace that is integrated with a UV sensor capable of tracking UV radiation. Paired with a mobile app hosted using Blynk, "Ray" aims to revolutionize how individuals interact with and manage their sun exposure.
 
 Key Features:
@@ -19,12 +19,12 @@ Technical Specifications:
 - Battery with easy charging options for power.
 - Wires for connection between peripherals.
 
-# # Installation
+## Installation
 - Download the DataProcessor.py, .txt, and .csv files
 - Run DataProcessor continuously on a server
 - Upload blynk_setup.ino onto ESP8266 connected with VEML6070 and battery
 - Configure Blynk App to collect and showcase data however desired
 
-# # Credits
+## Credits
 - Divija Durga (divija@princeton.edu)
 - Niranjan Vijaya Krishnan (niruvk@princeton.edu)

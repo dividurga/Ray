@@ -26,7 +26,7 @@ Technical Specifications:
 - Configure Blynk App to collect and showcase data however desired
 
 # End Product
-- User will download an app and receive hardware (the necklace) with an easy setup and connection
+- User will download an app and receive hardware (necklace) with an easy setup and connection
 
 # Credits
 - Divija Durga (divija@princeton.edu)

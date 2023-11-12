@@ -19,6 +19,7 @@ Technical Specifications:
 - Battery with easy charging options for power.
 - Wires for connection between peripherals.
   <img width="949" alt="image" src="https://github.com/niruvk/Ray/assets/107680271/f61bad0b-b1da-45b3-89aa-2a5268c2ed44">
+<img width="946" alt="image" src="https://github.com/niruvk/Ray/assets/107680271/6ec9044c-54d6-43b4-845d-4d5b64dfa1ca">
 
 
 # Installation

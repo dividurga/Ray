@@ -18,6 +18,8 @@ Technical Specifications:
 - WiFi connectivity for seamless data transfer to the mobile app.
 - Battery with easy charging options for power.
 - Wires for connection between peripherals.
+  <img width="949" alt="image" src="https://github.com/niruvk/Ray/assets/107680271/f61bad0b-b1da-45b3-89aa-2a5268c2ed44">
+
 
 # Installation
 - Download the DataProcessor.py, .txt, and .csv files

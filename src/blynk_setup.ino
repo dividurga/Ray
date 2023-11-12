@@ -3,7 +3,7 @@ uint16_t uvs ;
 //using Blynk server to host our interface
 #define BLYNK_TEMPLATE_ID           "TMPL31C8e7R56"
 #define BLYNK_TEMPLATE_NAME         "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM"
+#define BLYNK_AUTH_TOKEN            {AUTH_TOKEN}
 
 #define BLYNK_PRINT Serial
 
@@ -12,8 +12,8 @@ uint16_t uvs ;
 #include <BlynkSimpleEsp8266.h>
 
 // WiFi credentials.
-char ssid[] = "Redmi Note 8";
-char pass[] = "divij@123";
+char ssid[] = {SSID};
+char pass[] = {PASSWORD};
 
 BlynkTimer timer;
 

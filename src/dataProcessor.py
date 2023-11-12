@@ -12,15 +12,15 @@ import math
 #Event URLs to send events (notifications) to the app
 file_path = "full_uv_harshness_dataset_exp.txt"
 fileTwo_path = "adjusted_simulated_uv_skin_cancer_dataset.csv"
-request_url = "https://blr1.blynk.cloud/external/api/get?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&v4"
-requestTwo_url = "https://blr1.blynk.cloud/external/api/get?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&v10"
-update_url = "https://blr1.blynk.cloud/external/api/update?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&V6="
-updateTwo_url = "https://blr1.blynk.cloud/external/api/update?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&V5="
-updateThree_url = "https://blr1.blynk.cloud/external/api/update?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&V7="
-updateFour_url = "https://blr1.blynk.cloud/external/api/update?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&V8="
-eventOne_url = "https://blr1.blynk.cloud/external/api/logEvent?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&code=notif"
-eventTwo_url = "https://blr1.blynk.cloud/external/api/logEvent?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&code=notif2"
-eventThree_url = "https://blr1.blynk.cloud/external/api/logEvent?token=ofAnR6pN0YG7rBbaqVRuAQuvxpcU2OtM&code=notif3"
+request_url = "https://blr1.blynk.cloud/external/api/get?token={AUTH_TOKEN}&v4"
+requestTwo_url = "https://blr1.blynk.cloud/external/api/get?token={AUTH_TOKEN}&v10"
+update_url = "https://blr1.blynk.cloud/external/api/update?token={AUTH_TOKEN}&V6="
+updateTwo_url = "https://blr1.blynk.cloud/external/api/update?token={AUTH_TOKEN}&V5="
+updateThree_url = "https://blr1.blynk.cloud/external/api/update?token={AUTH_TOKEN}&V7="
+updateFour_url = "https://blr1.blynk.cloud/external/api/update?token={AUTH_TOKEN}&V8="
+eventOne_url = "https://blr1.blynk.cloud/external/api/logEvent?token={AUTH_TOKEN}&code=notif"
+eventTwo_url = "https://blr1.blynk.cloud/external/api/logEvent?token={AUTH_TOKEN}&code=notif2"
+eventThree_url = "https://blr1.blynk.cloud/external/api/logEvent?token={AUTH_TOKEN}&code=notif3"
 dataValues = []
 dataValuesTwo = []
 SPF_BENCHMARK = 300

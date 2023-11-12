@@ -25,6 +25,9 @@ Technical Specifications:
 - Upload blynk_setup.ino onto ESP8266 connected with VEML6070 and battery
 - Configure Blynk App to collect and showcase data however desired
 
+# End Product
+- User will download an app and receive hardware (the necklace) with an easy setup and connection
+
 # Credits
 - Divija Durga (divija@princeton.edu)
 - Niranjan Vijaya Krishnan (niruvk@princeton.edu)
